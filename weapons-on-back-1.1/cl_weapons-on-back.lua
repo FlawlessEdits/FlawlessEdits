@@ -4,7 +4,7 @@
 
 -- Add weapons to the 'compatable_weapon_hashes' table below to make them show up on a player's back (can use GetHashKey(...) if you don't know the hash) --
 local SETTINGS = {
-    back_bone = 24816
+    back_bone = 24816,
     x = 0.25,
     y = -0.195,
     z = -0.02,
