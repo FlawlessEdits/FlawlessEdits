@@ -11,6 +11,5 @@ fx_version 'bodacious'
 game 'gta5'
 
 client_scripts {
-	'__resource.lua',
 	'cl_weapons-on-back.lua'
 }
